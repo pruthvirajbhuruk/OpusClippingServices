@@ -20,7 +20,7 @@ export default function Results() {
 
           {/* MAIN VIDEO */}
           <div className="main-video">
-            <img src="/src/youtubet.jpg" alt="YouTube Video" />
+            <img src="../src/youtubet.jpg" alt="YouTube Video" />
             <div className="youtube-badge">Full Episode</div>
           </div>
 
