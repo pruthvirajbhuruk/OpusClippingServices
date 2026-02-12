@@ -18,7 +18,7 @@ export default function CaseStudies() {
           {/* vertical shorts thumbnail */}
           <div className="case-media">
             <img
-              src="/src/components/casestudy.jpeg"
+              src="casestudy.jpeg"
               alt="YouTube shorts thumbnail"
               className="case-image"
             />

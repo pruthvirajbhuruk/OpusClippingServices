@@ -35,22 +35,22 @@ export default function Results() {
           {/* CLIPS GRID */}
           <div className="clips-grid">
             <div className="clip">
-              <img src="/src/clip1.jpeg" alt="Clip 1" />
+              <img src="/clip1.jpeg" alt="Clip 1" />
               <span>Shorts</span>
             </div>
 
             <div className="clip">
-              <img src="/src/clip2.jpeg" alt="Clip 2" />
+              <img src="/clip2.jpeg" alt="Clip 2" />
               <span>Reels</span>
             </div>
 
             <div className="clip">
-              <img src="/src/clip3.jpeg" alt="Clip 3" />
+              <img src="/clip3.jpeg" alt="Clip 3" />
               <span>TikTok</span>
             </div>
 
             <div className="clip">
-              <img src="/src/clip4.jpeg" alt="Clip 4" />
+              <img src="/clip4.jpeg" alt="Clip 4" />
               <span>+ More</span>
             </div>
           </div>
