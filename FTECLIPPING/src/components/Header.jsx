@@ -38,7 +38,7 @@ export default function Header() {
       <div className={`mobile-menu ${open ? "open" : ""}`}>
         <a href="#home" onClick={() => setOpen(false)}>Home</a>
         <a href="#cases" onClick={() => setOpen(false)}>Case Studies</a>
-        <a href="#contact" onClick={() => setOpen(false)}><a href="https://wa.me/8482907927?text=Hi%2C%20I%20found%20your%20website%20and%20want%20to%20book%20a%20call%20for%20short-form%20video%20clipping%20services."> Contact </a></a>
+        <a href="https://wa.me/8482907927?text=Hi%2C%20I%20found%20your%20website%20and%20want%20to%20book%20a%20call%20for%20short-form%20video%20clipping%20services." onClick={() => setOpen(false)}>Contact </a>
         <button className="cta-pill mobile-cta"><a href="https://wa.me/8482907927?text=Hi%2C%20I%20found%20your%20website%20and%20want%20to%20book%20a%20call%20for%20short-form%20video%20clipping%20services."> Book a Call </a></button>
       </div>
     </header>
