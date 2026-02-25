@@ -8,7 +8,7 @@ export default function Header() {
       {/* LEFT – Brand */}
       <div className="header-brand">
   <span className="brand-mark">✦</span>
-  <span className="brand-text">FTE</span>
+  <span className="brand-text">FTEe</span>
 </div>
 
       {/* CENTER – Navigation in floating pill */}
