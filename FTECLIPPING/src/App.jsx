@@ -23,7 +23,7 @@ export default function App() {
       <Results />
       <CaseStudies />
       <Testimonials/>
-      <Promo />
+     
       <Pricing/>
       <Footer />
       
